@@ -1,4 +1,4 @@
 #include <stdio.h>
 int main(){
-printf("Hello World %d\n",100);
+	printf("Hello World %d\n",100);
 }
